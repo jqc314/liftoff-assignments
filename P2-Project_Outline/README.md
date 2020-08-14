@@ -7,12 +7,20 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My idea for the project I will be completing during lift off is a calorie counter and a recipe app. The app will have a secure log in for each user. Within the web app you will be able to search for foods and recieve calorie information for each search. In addition the app will allow you to add ingredients that you have searched for into a recipe and count the total calories of that recipe as well as save previous recipes you have created inside the app.
 ### Features
-Include Features here
+Secured user login
+Search feature
+Add recipe / ingredient to DB
+Remove recipe / ingredient
 ### Technologies
-Include Technologies here
+Java / Springboot
+Springboot Security
+MySql
+HTML/CSS
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+Springboot security
+I also really want to refine my CSS in this app as I do not have much experience
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/VCsB3Vsb/calorie-counter
